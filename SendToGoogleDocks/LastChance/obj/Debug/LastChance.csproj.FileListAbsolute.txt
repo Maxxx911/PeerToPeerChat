@@ -1,0 +1,8 @@
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\bin\Debug\LastChance.exe.config
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\bin\Debug\LastChance.exe
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\bin\Debug\LastChance.pdb
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\obj\Debug\LastChance.csprojAssemblyReference.cache
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\obj\Debug\LastChance.csproj.CoreCompileInputs.cache
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\obj\Debug\LastChance.exe
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\obj\Debug\LastChance.pdb
+D:\sendToGoogleDocks\SendToGoogleDocks\LastChance\obj\Debug\LastChance.csproj.Fody.CopyLocal.cache
